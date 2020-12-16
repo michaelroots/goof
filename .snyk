@@ -11,3 +11,6 @@ patch:
   'npm:semver:20150403':
     - npmconf > semver:
         patched: '2020-12-16T10:10:36.745Z'
+  'npm:ms:20151024':
+    - humanize-ms > ms:
+        patched: '2020-12-16T11:05:39.254Z'
